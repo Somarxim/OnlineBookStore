@@ -1,0 +1,6 @@
+D:\ASPNET\shopping\bookstore\YFModel\bin\Debug\YFModel.dll
+D:\ASPNET\shopping\bookstore\YFModel\bin\Debug\YFModel.pdb
+D:\ASPNET\shopping\bookstore\YFModel\obj\Debug\YFModel.csproj.AssemblyReference.cache
+D:\ASPNET\shopping\bookstore\YFModel\obj\Debug\YFModel.csproj.CoreCompileInputs.cache
+D:\ASPNET\shopping\bookstore\YFModel\obj\Debug\YFModel.dll
+D:\ASPNET\shopping\bookstore\YFModel\obj\Debug\YFModel.pdb
