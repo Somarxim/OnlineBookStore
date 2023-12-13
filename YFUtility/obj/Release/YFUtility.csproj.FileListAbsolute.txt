@@ -1,0 +1,6 @@
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFUtility\bin\Release\YFUtility.dll
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFUtility\bin\Release\YFUtility.pdb
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFUtility\obj\Release\YFUtility.csproj.AssemblyReference.cache
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFUtility\obj\Release\YFUtility.csproj.CoreCompileInputs.cache
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFUtility\obj\Release\YFUtility.dll
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFUtility\obj\Release\YFUtility.pdb
