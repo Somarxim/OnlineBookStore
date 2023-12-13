@@ -1,0 +1,11 @@
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\bin\Release\YFDAL.dll
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\bin\Release\YFDAL.pdb
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\bin\Release\YFModel.dll
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\bin\Release\YFUtility.dll
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\bin\Release\YFModel.pdb
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\bin\Release\YFUtility.pdb
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\obj\Release\YFDAL.csproj.AssemblyReference.cache
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\obj\Release\YFDAL.csproj.CoreCompileInputs.cache
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\obj\Release\YFDAL.csproj.CopyComplete
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\obj\Release\YFDAL.dll
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFDAL\obj\Release\YFDAL.pdb

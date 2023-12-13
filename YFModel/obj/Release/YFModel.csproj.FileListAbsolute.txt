@@ -1,0 +1,6 @@
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFModel\bin\Release\YFModel.dll
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFModel\bin\Release\YFModel.pdb
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFModel\obj\Release\YFModel.csproj.AssemblyReference.cache
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFModel\obj\Release\YFModel.csproj.CoreCompileInputs.cache
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFModel\obj\Release\YFModel.dll
+C:\Users\HeroBrine404\Desktop\shopping\bookstore\YFModel\obj\Release\YFModel.pdb
