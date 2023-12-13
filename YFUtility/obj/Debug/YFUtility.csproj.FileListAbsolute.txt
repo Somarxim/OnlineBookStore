@@ -1,0 +1,6 @@
+D:\ASPNET\shopping\bookstore\YFUtility\bin\Debug\YFUtility.dll
+D:\ASPNET\shopping\bookstore\YFUtility\bin\Debug\YFUtility.pdb
+D:\ASPNET\shopping\bookstore\YFUtility\obj\Debug\YFUtility.csproj.AssemblyReference.cache
+D:\ASPNET\shopping\bookstore\YFUtility\obj\Debug\YFUtility.csproj.CoreCompileInputs.cache
+D:\ASPNET\shopping\bookstore\YFUtility\obj\Debug\YFUtility.dll
+D:\ASPNET\shopping\bookstore\YFUtility\obj\Debug\YFUtility.pdb
